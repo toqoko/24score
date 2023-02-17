@@ -367,7 +367,7 @@ class App():
 		self.element_scale('matche_future', 1, 7, 4)
 
 		self.element_text('matche_played', 'Число сыгранных матчей')
-		self.element_scale('matche_played', 1, 9, 4)
+		self.element_scale('matche_played', 1, 15, 4)
 
 		self.element_radio_button('select_type', ['ЧЁТ', 'НЕЧЁТ'])
 
